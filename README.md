@@ -108,7 +108,7 @@ Install the requirements.txt file and run the application.
   ```
 
 ### Installation
-A number of paid API's are used:
+Following API's are used:
 
 1. Google ASR API
 2. Flash text keyword spotter API.
