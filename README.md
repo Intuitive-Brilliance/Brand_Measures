@@ -110,9 +110,10 @@ Install the requirements.txt file and run the application.
 ### Installation
 A number of paid API's are used:
 
-1. Google translation API.
-2. Google location API.
+1. Google ASR API
+2. Flash text keyword spotter API.
 3. Google text to speech and speech to text API.
+4. Symspell spell correction API
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -133,13 +134,12 @@ The ChatBot can be deployed on any website of your choice, however, the files ne
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Integration into any website
-- [ ] Text to speech and speech to text functionality
-- [ ] Translation funcationality
-- [ ] Admin panel for customized future modification
-  - [ ] U.I
-  - [ ] Retraining
-  - [ ] Addition and modification of pipelines
+- [ ] Speech segmentation
+- [ ] Speech to text conversion
+- [ ] Spell correction
+- [ ] Keyword spotting
+- [ ] Keyword extraction
+- [ ] Visualization
 
 <!---See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).--->
 
