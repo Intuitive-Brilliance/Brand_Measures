@@ -123,7 +123,7 @@ A number of paid API's are used:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The ChatBot can be deployed on any website of your choice, however, the files need to be configures appropriately.
+Initially the model has to be trained using the sample data or your own data before predictions can be made.
 
 <!---_For more examples, please refer to the [Documentation](https://example.com)_--->
 
