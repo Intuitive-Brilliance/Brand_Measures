@@ -21,7 +21,7 @@
 <h3 align="center">Brand Measures</h3>
 
   <p align="center">
-     A ChatBot, built using the transformer-based DistilBERT algorithm, tailored to assist customers with their inquiries and guide them to the appropriate destination.
+     An application used to analyse the general sentiment of the population towards a particular product.
     <br />
 <!--<a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -69,9 +69,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-When customers visit a website, they often have many questions and concerns before making a purchase. This means that a customer service representative must be available to provide reassurance and answer their questions. However, it can be costly to have a team of representatives available to assist with the large number of customers a website may receive, especially since many of the questions are repetitive. 
-
-The Megatron ChatBot can help with this. Trained using the state-of-the-art DistilBERT algorithm and extensive customer query data, the chatbot can provide a wide range of answers, from finding solutions in its own database to searching the web for answers. In the rare case that the chatbot is unable to help, a customer service representative will be assigned to assist the customer directly.
+Before launching a new product, companies often conduct surveys to gauge the general sentiment of the market towards it. This is done by providing samples of the product to a small group of people and asking them to provide feedback on the various aspects of the product, including its pros and cons. This not only helps the company understand the competition, but also allows them to make any necessary modifications to the product based on the feedback they receive before introducing it on a larger scale.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
